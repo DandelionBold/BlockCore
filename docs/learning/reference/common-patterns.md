@@ -1,5 +1,7 @@
 # Common Patterns - Engine Architecture Patterns
 
+**Navigation**: [BlockCore](../../README.md) > [Learning](../README.md) > [Reference](common-patterns.md)
+
 Essential architectural patterns for BlockCore development, explained for enterprise developers.
 
 ## 🏗️ Core Architecture Patterns
@@ -397,5 +399,10 @@ public class Observable<T> {
 - Use clear naming
 
 ---
+
+## 📖 Navigation
+
+**Previous**: [Glossary](glossary.md)  
+**Next**: [Troubleshooting](troubleshooting.md)
 
 **Need help with specific patterns? Check the [Troubleshooting](troubleshooting.md) guide!**

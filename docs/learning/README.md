@@ -1,5 +1,12 @@
 # Learning Path - BlockCore Engine
 
+**Navigation**: [BlockCore](../README.md) > [Learning](README.md)
+
+**Document Version**: 1.0  
+**Last Updated**: 2025-10-18  
+**Reading Time**: 15 minutes  
+**Difficulty**: Beginner to Intermediate
+
 Welcome to the BlockCore learning journey! This section is designed for developers transitioning from enterprise development to game engine development.
 
 ## 🎯 Learning Objectives
@@ -20,8 +27,8 @@ By the end of this learning path, you'll understand:
 
 ### Version-Based Learning
 - [v0.1 Learning Guide](v0.1/what-you-will-learn.md) - Foundation concepts
-- [v0.2 Learning Guide](v0.2/what-you-will-learn.md) - World generation *(Coming Soon)*
-- [v0.3 Learning Guide](v0.3/what-you-will-learn.md) - Physics systems *(Coming Soon)*
+- [v0.2 Learning Guide](v0.2/what-you-will-learn.md) - World generation *(Planned)*
+- [v0.3 Learning Guide](v0.3/what-you-will-learn.md) - Physics systems *(Planned)*
 
 ### Reference Materials
 - [Glossary](reference/glossary.md) - Game development terminology
@@ -45,5 +52,10 @@ Coming from enterprise development? Here are key differences:
 - **State Management**: Game state vs business state
 
 ---
+
+## 📖 Navigation
+
+**Previous**: [Planning Documentation](../planning/README.md)  
+**Next**: [Prerequisites Overview](prerequisites/overview.md)
 
 **Ready to start? Begin with [Prerequisites Overview](prerequisites/overview.md)**

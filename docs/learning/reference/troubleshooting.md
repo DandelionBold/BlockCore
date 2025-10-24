@@ -1,5 +1,7 @@
 # Troubleshooting - Common Issues and Solutions
 
+**Navigation**: [BlockCore](../../README.md) > [Learning](../README.md) > [Reference](troubleshooting.md)
+
 Solutions to common problems encountered during BlockCore development.
 
 ## 🚨 Common Issues
@@ -521,4 +523,10 @@ public class ResourceStreamer {
 
 ---
 
+## 📖 Navigation
+
+**Previous**: [Common Patterns](common-patterns.md)  
+**Next**: [Back to Learning Overview](../README.md)
+
 **Still having issues? Check the [Common Patterns](common-patterns.md) for architectural solutions!**
+pro

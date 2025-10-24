@@ -1,5 +1,7 @@
 # Tools & Setup - Development Environment
 
+**Navigation**: [BlockCore](../../README.md) > [Learning](../README.md) > [Prerequisites](overview.md) > [Tools & Setup](tools-setup.md)
+
 Setting up your development environment for BlockCore engine development.
 
 ## 🛠️ Required Tools
@@ -259,6 +261,13 @@ git config --global user.email "your.email@example.com"
 - Enable hardware acceleration
 - Close unnecessary applications
 
+**📖 Need Help?**: Check the [Troubleshooting Guide](../reference/troubleshooting.md) for detailed solutions to common development environment issues.
+
 ---
 
-**Ready to start coding? Head to [v0.1 Learning Guide](v0.1/what-you-will-learn.md)!**
+## 📖 Navigation
+
+**Previous**: [Key Concepts](concepts.md)  
+**Next**: [v0.1 Learning Guide](../v0.1/what-you-will-learn.md)
+
+**Ready to start coding? Head to [v0.1 Learning Guide](../v0.1/what-you-will-learn.md)!**

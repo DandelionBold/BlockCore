@@ -1,5 +1,7 @@
 # Glossary - Game Development Terminology
 
+**Navigation**: [BlockCore](../../README.md) > [Learning](../README.md) > [Reference](glossary.md)
+
 Essential terms for BlockCore development, explained for enterprise developers.
 
 ## A
@@ -247,5 +249,10 @@ Essential terms for BlockCore development, explained for enterprise developers.
 **SSBO**: Shader Storage Buffer Object
 
 ---
+
+## 📖 Navigation
+
+**Previous**: [v0.1 Learning Guide](../v0.1/what-you-will-learn.md)  
+**Next**: [Common Patterns](common-patterns.md)
 
 **Need more terms? Check the [Common Patterns](common-patterns.md) for architectural concepts!**

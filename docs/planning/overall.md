@@ -1,5 +1,7 @@
 # BlockCore - Overall Vision & Roadmap
 
+**Navigation**: [BlockCore](../README.md) > [Planning](README.md) > [Overall Vision](overall.md)
+
 **Document Version**: 1.0  
 **Last Updated**: 2025-10-18  
 **Status**: Living Document
@@ -437,10 +439,15 @@ BlockCore is a **multi-year commitment** to building a best-in-class voxel engin
 ## Appendix: Related Documents
 
 - [v0.1 Plan](v0.1.md) - Detailed implementation plan for first milestone
-- Architecture Decision Records (ADRs) *(Coming Soon)*
-- API Reference *(Coming Soon)*
+- [Architecture Decision Records](adr/README.md) - Technical decisions and rationale
+- [API Reference](api/README.md) - Complete API documentation
 
 ---
+
+## 📖 Navigation
+
+**Previous**: [Planning Overview](README.md)  
+**Next**: [v0.1 Implementation Plan](v0.1.md)
 
 **Last Reviewed**: 2025-10-18  
 **Next Review**: After v0.1 completion

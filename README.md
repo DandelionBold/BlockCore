@@ -1,5 +1,7 @@
 # BlockCore
 
+**Navigation**: [BlockCore](README.md)
+
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![.NET](https://img.shields.io/badge/.NET-9.0-purple.svg)](https://dotnet.microsoft.com/)
 [![Status](https://img.shields.io/badge/Status-In%20Development-yellow.svg)]()
@@ -80,8 +82,8 @@ dotnet add package BlockCore --version 0.1.0-preview
 - **🎓 Learning Path**: [Comprehensive guides](docs/learning/README.md) for developers transitioning from enterprise development to game engine development
 - [Planning & Roadmap](docs/planning/overall.md) - Long-term vision and architecture
 - [v0.1 Development Plan](docs/planning/v0.1.md) - Current milestone details
-- API Documentation *(Coming Soon)*
-- Tutorials *(Coming Soon)*
+- [API Documentation](docs/api/README.md) - Complete API reference
+- [Tutorials](docs/tutorials/README.md) - Step-by-step guides
 
 ---
 
@@ -112,7 +114,7 @@ BlockCore follows semantic versioning (MAJOR.MINOR.PATCH):
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please read our contributing guidelines *(Coming Soon)* before submitting PRs.
+Contributions are welcome! Please read our [contributing guidelines](CONTRIBUTING.md) before submitting PRs.
 
 ### Development Guidelines
 
@@ -135,18 +137,35 @@ BlockCore is dual-licensed:
 
 ## 🌟 Related Projects
 
-- [MineWorld](https://github.com/DandelionBold/MineWorld) - Reference game implementation
-- [BlockCore-SDK](https://github.com/DandelionBold/BlockCore-SDK) - Developer toolkit for engine extensions
-- [MineWorld-SDK](https://github.com/DandelionBold/MineWorld-SDK) - Modding toolkit for MineWorld
+### Core Ecosystem
+- **[MineWorld](https://github.com/DandelionBold/MineWorld)** - Reference game implementation built on BlockCore
+  - Demonstrates engine capabilities
+  - Provides game development examples
+  - [Learning Guide](https://github.com/DandelionBold/MineWorld/blob/main/docs/learning/README.md)
+
+### Developer Tools
+- **[BlockCore-SDK](https://github.com/DandelionBold/BlockCore-SDK)** - Developer toolkit for engine extensions
+  - CLI tools for plugin development
+  - Schemas and validation tools
+  - [SDK Documentation](https://github.com/DandelionBold/BlockCore-SDK/blob/main/docs/learning/README.md)
+
+- **[MineWorld-SDK](https://github.com/DandelionBold/MineWorld-SDK)** - Modding toolkit for MineWorld
+  - Game-specific modding tools
+  - Content creation utilities
+  - [Modding Guide](https://github.com/DandelionBold/MineWorld-SDK/blob/main/docs/learning/README.md)
 
 ---
 
 ## 💬 Community
 
 - GitHub Issues: Bug reports and feature requests
-- Discussions: Questions and community chat *(Coming Soon)*
+- Discussions: Questions and community chat
 
 ---
+
+## 📖 Navigation
+
+**Next**: [Learning Path](docs/learning/README.md) | [Planning Documentation](docs/planning/README.md)
 
 **Built with ❤️ by the BlockCore Team**
 

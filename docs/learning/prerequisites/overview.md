@@ -1,5 +1,7 @@
 # Prerequisites Overview
 
+**Navigation**: [BlockCore](../../README.md) > [Learning](../README.md) > [Prerequisites](overview.md)
+
 Before diving into BlockCore development, let's understand what you need to know and how it differs from enterprise development.
 
 ## 🎯 Your Background: Enterprise → Game Development
@@ -150,8 +152,17 @@ Before diving into BlockCore development, let's understand what you need to know
 
 1. **Read**: [Key Concepts](concepts.md) for detailed explanations
 2. **Setup**: [Tools & Setup](tools-setup.md) for your development environment
-3. **Start**: [v0.1 Learning Guide](v0.1/what-you-will-learn.md) when ready to code
+3. **Start**: [v0.1 Learning Guide](../v0.1/what-you-will-learn.md) when ready to code
+
+**📚 Related Learning Guides**:
+- [BlockCore v0.1 Guide](../v0.1/what-you-will-learn.md) - Foundation concepts
+- [MineWorld v0.1 Guide](https://github.com/DandelionBold/MineWorld/blob/main/docs/learning/v0.1/what-you-will-learn.md) - Game implementation examples
 
 ---
+
+## 📖 Navigation
+
+**Previous**: [Learning Overview](../README.md)  
+**Next**: [Key Concepts](concepts.md)
 
 **Remember**: Game development is a marathon, not a sprint. Take time to understand each concept before moving to the next!

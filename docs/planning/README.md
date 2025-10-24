@@ -1,5 +1,7 @@
 # BlockCore Planning Documentation
 
+**Navigation**: [BlockCore](../README.md) > [Planning](README.md)
+
 This directory contains comprehensive planning and architectural documentation for the BlockCore engine.
 
 ## 📑 Documentation Index
@@ -23,8 +25,8 @@ This directory contains comprehensive planning and architectural documentation f
 ### Future Versions
 
 - v0.2 Plan *(Coming after v0.1 completion)*
-- v0.3 Plan *(Coming Soon)*
-- v0.4 Plan *(Coming Soon)*
+- v0.3 Plan *(Planned)*
+- v0.4 Plan *(Planned)*
 
 ---
 
@@ -63,6 +65,11 @@ All planning documents follow this structure:
 4. **Planning Next Version**: Reference overall.md for long-term direction
 
 ---
+
+## 📖 Navigation
+
+**Previous**: [Learning Documentation](../learning/README.md)  
+**Next**: [Overall Vision & Roadmap](overall.md)
 
 Last Updated: 2025-10-18
 

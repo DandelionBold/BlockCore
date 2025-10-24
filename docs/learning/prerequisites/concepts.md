@@ -1,5 +1,7 @@
 # Key Concepts - Game Development Fundamentals
 
+**Navigation**: [BlockCore](../../README.md) > [Learning](../README.md) > [Prerequisites](overview.md) > [Key Concepts](concepts.md)
+
 Understanding these concepts is crucial for BlockCore development. We'll explain each from an enterprise developer's perspective.
 
 ## 🎮 Core Game Development Concepts
@@ -25,6 +27,8 @@ while (running) {
 - **Time-based**: Everything depends on frame time (deltaTime)
 - **Real-time**: Must maintain consistent frame rate
 
+**Real Example**: In [MineWorld](https://github.com/DandelionBold/MineWorld), this loop handles player movement, world updates, and rendering continuously, unlike a web API that responds to individual requests.
+
 ### 2. Rendering Pipeline
 
 **Enterprise**: "Display data in tables/forms"
@@ -38,6 +42,10 @@ while (running) {
 - **Vertices**: 3D points in space
 - **Meshes**: Collections of vertices forming shapes
 - **Shaders**: Programs that run on GPU
+
+**Real Example**: [MineWorld](https://github.com/DandelionBold/MineWorld) renders thousands of voxel blocks in real-time, converting 3D world data into the 2D image you see on screen.
+
+**📖 Related Terms**: See [Glossary](../reference/glossary.md) for detailed definitions of vertices, meshes, shaders, and other graphics terms.
 - **Textures**: Images applied to surfaces
 
 ### 3. Coordinate Systems
@@ -238,5 +246,10 @@ BlockCore → Silk.NET → Vulkan/DirectX/Metal → GPU
 3. **Reference**: [Glossary](reference/glossary.md) - Look up terms as needed
 
 ---
+
+## 📖 Navigation
+
+**Previous**: [Prerequisites Overview](overview.md)  
+**Next**: [Tools & Setup](tools-setup.md)
 
 **Remember**: These concepts will become clearer as you implement them. Don't worry if everything doesn't make sense immediately!

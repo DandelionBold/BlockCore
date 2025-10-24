@@ -1,5 +1,13 @@
 # v0.1 Learning Guide - Foundation Concepts
 
+**Navigation**: [BlockCore](../../README.md) > [Learning](../README.md) > [v0.1 Learning Guide](what-you-will-learn.md)
+
+**Document Version**: 1.0  
+**Last Updated**: 2025-10-18  
+**Reading Time**: 25 minutes  
+**Difficulty**: Intermediate  
+**Prerequisites**: [Prerequisites Overview](../prerequisites/overview.md)
+
 Welcome to BlockCore v0.1! This guide will teach you the fundamental concepts needed to build a basic voxel engine.
 
 ## 🎯 Learning Objectives
@@ -91,6 +99,8 @@ while (running) {
 - **First Person**: Like FPS games
 - **Third Person**: Like RPG games
 - **Orthographic**: Like CAD software
+
+**Real Example**: [MineWorld](https://github.com/DandelionBold/MineWorld) uses first-person camera for player perspective, while the [BlockCore-SDK](https://github.com/DandelionBold/BlockCore-SDK) provides tools for creating custom camera plugins.
 
 ### 6. Input Handling
 **Enterprise Analogy**: Like form input, but real-time
@@ -256,6 +266,8 @@ while (running) {
 - **v0.3**: Physics and collision detection
 - **v0.4**: Networking and multiplayer
 
+**📋 Planning Details**: See the [v0.1 Implementation Plan](../../planning/v0.1.md) for detailed task breakdowns, timelines, and acceptance criteria.
+
 ### Continuing Learning
 - **Advanced Rendering**: Shadows, lighting, post-processing
 - **Performance Optimization**: Advanced techniques
@@ -304,5 +316,10 @@ while (running) {
 - [ ] Apply performance optimization techniques
 
 ---
+
+## 📖 Navigation
+
+**Previous**: [Tools & Setup](../prerequisites/tools-setup.md)  
+**Next**: [Glossary](../reference/glossary.md)
 
 **Ready to start coding? Begin with [Task 1: Window Creation](v0.1/task-1-window-creation.md)!**
